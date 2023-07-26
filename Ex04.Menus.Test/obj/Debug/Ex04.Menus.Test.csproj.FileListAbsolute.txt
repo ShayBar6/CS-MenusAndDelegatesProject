@@ -1,0 +1,12 @@
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Test.exe.config
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Test.exe
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Test.pdb
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Delegates.dll
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Interfaces.dll
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Delegates.pdb
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/bin/Debug/Ex04.Menus.Interfaces.pdb
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/obj/Debug/Ex04.Menus.Test.csproj.AssemblyReference.cache
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/obj/Debug/Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/obj/Debug/Ex04.Menus.Test.csproj.CopyComplete
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/obj/Debug/Ex04.Menus.Test.exe
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Test/obj/Debug/Ex04.Menus.Test.pdb

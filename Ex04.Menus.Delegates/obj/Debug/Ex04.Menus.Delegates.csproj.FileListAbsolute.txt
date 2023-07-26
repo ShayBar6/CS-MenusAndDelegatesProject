@@ -1,0 +1,6 @@
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Delegates/bin/Debug/Ex04.Menus.Delegates.dll
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Delegates/bin/Debug/Ex04.Menus.Delegates.pdb
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Delegates/obj/Debug/Ex04.Menus.Delegates.csproj.AssemblyReference.cache
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Delegates/obj/Debug/Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Delegates/obj/Debug/Ex04.Menus.Delegates.dll
+/Users/shaybar/VS Projects/Second Year/CS/B23 Ex04 YarinBenzimra 207952052 ShayBar 206869646/Ex04.Menus.Delegates/obj/Debug/Ex04.Menus.Delegates.pdb

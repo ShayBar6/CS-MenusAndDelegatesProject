@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{224AB28B-AA5F-45A3-9417-D011E44D33BB}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ex04.Menus.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ex04.Menus.Test/Program.cs">
+    <Files>
+      <File FileName="Ex04.Menus.Delegates/MainMenu.cs" Line="2" Column="11" />
+      <File FileName="Ex04.Menus.Delegates/Menu.cs" Line="1" Column="1" />
+      <File FileName="Ex04.Menus.Delegates/MenuItem.cs" Line="1" Column="1" />
+      <File FileName="Ex04.Menus.Test/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="B23 Ex04 Yarin 207952052 Shay 206869646" expanded="True">
+            <Node name="Ex04.Menus.Delegates" expanded="True" />
+            <Node name="Ex04.Menus.Interfaces" expanded="True" />
+            <Node name="Ex04.Menus.Test" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
